@@ -21,9 +21,27 @@ function App() {
           </div>
         </div>
       </section>
-      <section>
-        <p>Frontend Repo: </p>
-        <p>Backend Repo: </p>
+      <section className="text-xl">
+        <p>
+          Frontend Repo:{" "}
+          <a
+            className="underline"
+            href="https://github.com/hassanuahmad/tersano-fe"
+            target="_blank"
+          >
+            https://github.com/hassanuahmad/tersano-fe
+          </a>
+        </p>
+        <p>
+          Backend Repo:{" "}
+          <a
+            className="underline"
+            href="https://github.com/hassanuahmad/tersano-be"
+            target="_blank"
+          >
+            https://github.com/hassanuahmad/tersano-be
+          </a>
+        </p>
         <p>YouTube Video: </p>
       </section>
     </>
