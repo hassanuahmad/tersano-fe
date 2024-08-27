@@ -42,7 +42,16 @@ function App() {
             https://github.com/hassanuahmad/tersano-be
           </a>
         </p>
-        <p>YouTube Video: </p>
+        <p>
+          YouTube Video:{" "}
+          <a
+            className="underline"
+            href="https://youtu.be/oyxmSGTcr4E"
+            target="_blank"
+          >
+            https://youtu.be/oyxmSGTcr4E
+          </a>
+        </p>
       </section>
     </>
   );
